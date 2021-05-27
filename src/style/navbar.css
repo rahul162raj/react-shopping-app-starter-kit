@@ -1,0 +1,15 @@
+@media (min-width: 320px) and (max-width: 767px) {
+  /* CSS */
+  .navbar > .container {
+    justify-content: left !important;
+    padding-bottom: 4px !important;
+  }
+  .navbar > .container > form {
+    width: 100%;
+    margin-bottom: 14px !important;
+  }
+  .navbar-brand {
+    width: 100%;
+    margin-bottom: 14px;
+  }
+}

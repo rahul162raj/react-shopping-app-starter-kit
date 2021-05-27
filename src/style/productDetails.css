@@ -1,0 +1,11 @@
+.product-detail-container {
+  z-index: -1;
+}
+
+.product-detail-description {
+  color: rgb(97, 96, 96);
+}
+
+.product-detail-rating > i {
+  color: #ffc107;
+}

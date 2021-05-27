@@ -1,0 +1,14 @@
+.no-result-container {
+  height: 50vh;
+  width: 100%;
+}
+
+.no-result-icon {
+  font-size: 64px !important;
+  text-align: center;
+  color: #6c757d;
+}
+
+.no-result-text {
+  color: #6c757d;
+}

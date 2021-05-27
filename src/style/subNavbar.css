@@ -1,0 +1,27 @@
+@media (min-width: 320px) and (max-width: 1280px) {
+  .image-slider {
+    animation: animateItem 12s ease-in infinite;
+  }
+  @keyframes animateItem {
+    0%,
+    8% {
+      margin-left: 15px;
+    }
+
+    25%,
+    33% {
+      margin-left: -270px;
+    }
+    50%,
+    58% {
+      margin-left: -550px;
+    }
+    75%,
+    83% {
+      margin-left: -830px;
+    }
+    100% {
+      margin-left: 15px;
+    }
+  }
+}
