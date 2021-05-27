@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rahul162raj.github.io/react-shopping-app/static/css/main.f15c6618.chunk.css",
+    "main.js": "/rahul162raj.github.io/react-shopping-app/static/js/main.7b9ce013.chunk.js",
+    "main.js.map": "/rahul162raj.github.io/react-shopping-app/static/js/main.7b9ce013.chunk.js.map",
+    "runtime-main.js": "/rahul162raj.github.io/react-shopping-app/static/js/runtime-main.dfe49985.js",
+    "runtime-main.js.map": "/rahul162raj.github.io/react-shopping-app/static/js/runtime-main.dfe49985.js.map",
+    "static/css/2.fb16657b.chunk.css": "/rahul162raj.github.io/react-shopping-app/static/css/2.fb16657b.chunk.css",
+    "static/js/2.1beccf07.chunk.js": "/rahul162raj.github.io/react-shopping-app/static/js/2.1beccf07.chunk.js",
+    "static/js/2.1beccf07.chunk.js.map": "/rahul162raj.github.io/react-shopping-app/static/js/2.1beccf07.chunk.js.map",
+    "static/js/3.ad06e2fd.chunk.js": "/rahul162raj.github.io/react-shopping-app/static/js/3.ad06e2fd.chunk.js",
+    "static/js/3.ad06e2fd.chunk.js.map": "/rahul162raj.github.io/react-shopping-app/static/js/3.ad06e2fd.chunk.js.map",
+    "index.html": "/rahul162raj.github.io/react-shopping-app/index.html",
+    "static/css/2.fb16657b.chunk.css.map": "/rahul162raj.github.io/react-shopping-app/static/css/2.fb16657b.chunk.css.map",
+    "static/css/main.f15c6618.chunk.css.map": "/rahul162raj.github.io/react-shopping-app/static/css/main.f15c6618.chunk.css.map",
+    "static/js/2.1beccf07.chunk.js.LICENSE.txt": "/rahul162raj.github.io/react-shopping-app/static/js/2.1beccf07.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/rahul162raj.github.io/react-shopping-app/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe49985.js",
+    "static/css/2.fb16657b.chunk.css",
+    "static/js/2.1beccf07.chunk.js",
+    "static/css/main.f15c6618.chunk.css",
+    "static/js/main.7b9ce013.chunk.js"
+  ]
+}
