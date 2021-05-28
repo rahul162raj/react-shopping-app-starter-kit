@@ -54,7 +54,7 @@ class SubNavbarComponent extends Component {
               >
                 <img
                   className="card-img-top"
-                  src={"./assets/url" + index + ".jpg"}
+                  src={process.env.PUBLIC_URL + "/assets/url" + index + ".jpg"}
                   alt="product"
                 />
               </div>

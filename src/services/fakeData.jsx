@@ -6,7 +6,7 @@
 export const fakeData = [
   {
     id: "3c67403e-94ca-4398-8fd9-9576c1d81342",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 999,
@@ -14,7 +14,7 @@ export const fakeData = [
   },
   {
     id: "7a1cfe2e-c884-4207-8023-1c1ac7da295c",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 330001,
@@ -22,7 +22,7 @@ export const fakeData = [
   },
   {
     id: "b6c9dcd5-66b5-4c03-9f67-d28053675ad9",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 1,
@@ -30,7 +30,7 @@ export const fakeData = [
   },
   {
     id: "59d423f7-aa7c-469d-8d63-d0f836017504",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 1,
@@ -38,7 +38,7 @@ export const fakeData = [
   },
   {
     id: "93487353-f896-410e-8e97-992983620830",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 1799,
@@ -46,7 +46,7 @@ export const fakeData = [
   },
   {
     id: "afe3b2ce-fd79-4165-8a4d-047ea4a2c03c",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 220001,
@@ -54,7 +54,7 @@ export const fakeData = [
   },
   {
     id: "5fafe332-dd60-4966-8358-b552bd1f5503",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 66001,
@@ -62,7 +62,7 @@ export const fakeData = [
   },
   {
     id: "a6c603e6-7e62-4369-a54a-f2106ecc6b72",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 16183,
@@ -70,7 +70,7 @@ export const fakeData = [
   },
   {
     id: "cfd39e4d-d216-4bb5-a5ef-96e6fd013272",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 3771,
@@ -78,7 +78,7 @@ export const fakeData = [
   },
   {
     id: "e0a450a3-1652-4106-b33a-264bd40a4a7a",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 3017,
@@ -86,7 +86,7 @@ export const fakeData = [
   },
   {
     id: "54784cdc-4231-4466-ab9d-5128435d8a67",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 2263,
@@ -94,7 +94,7 @@ export const fakeData = [
   },
   {
     id: "1a979b4e-8f22-40de-ae21-cfe610d73778",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 132001,
@@ -102,7 +102,7 @@ export const fakeData = [
   },
   {
     id: "5d565f4d-1102-44be-b155-23a5c2820d78",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 7486,
@@ -110,7 +110,7 @@ export const fakeData = [
   },
   {
     id: "84343449-eef6-4d11-80f3-7e3e7d1eadd3",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 17082,
@@ -118,7 +118,7 @@ export const fakeData = [
   },
   {
     id: "36bd15c2-8671-4a07-8a29-fa3853f7e500",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 5395,
@@ -126,7 +126,7 @@ export const fakeData = [
   },
   {
     id: "ca371d3f-5dc5-49a1-bddb-a98d46d165ec",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 13486,
@@ -134,7 +134,7 @@ export const fakeData = [
   },
   {
     id: "712b01e7-ae74-4cda-94fd-6331a3ddbc12",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 12587,
@@ -142,7 +142,7 @@ export const fakeData = [
   },
   {
     id: "71ab922e-4b95-4fd0-ae82-25de785df77a",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 6151,
@@ -150,7 +150,7 @@ export const fakeData = [
   },
   {
     id: "24cf170a-0a24-4da1-8580-2dff4f232756",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 5989,
@@ -158,7 +158,7 @@ export const fakeData = [
   },
   {
     id: "4de84b5c-2d8b-41ec-9179-fa19d1cce5fb",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 11071,
@@ -166,7 +166,7 @@ export const fakeData = [
   },
   {
     id: "cc56e309-542c-49ee-a740-2132fc05c57b",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 9841,
@@ -174,7 +174,7 @@ export const fakeData = [
   },
   {
     id: "03139855-f2e5-4f11-8694-0f8cba426085",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 286001,
@@ -182,7 +182,7 @@ export const fakeData = [
   },
   {
     id: "2beb6059-cbe4-4a97-90a6-a9f231f5d07d",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 396001,
@@ -190,7 +190,7 @@ export const fakeData = [
   },
   {
     id: "74a4a5ea-475d-42ec-a041-caae95f888de",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 4921,
@@ -198,7 +198,7 @@ export const fakeData = [
   },
   {
     id: "a0ef62f5-afec-4256-aab4-a70388924ef8",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 7381,
@@ -206,7 +206,7 @@ export const fakeData = [
   },
   {
     id: "6b521ee9-f5c1-471d-abb6-a83af88357d6",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 308001,
@@ -214,7 +214,7 @@ export const fakeData = [
   },
   {
     id: "6dfd9677-1201-4a08-aeee-e00810770db4",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 7164,
@@ -222,7 +222,7 @@ export const fakeData = [
   },
   {
     id: "1e2ce49d-8074-4a2f-a932-ca3579c4ccae",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 6294,
@@ -230,7 +230,7 @@ export const fakeData = [
   },
   {
     id: "069f48bb-cdb1-4ca4-a202-dccdabc11518",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 14761,
@@ -238,7 +238,7 @@ export const fakeData = [
   },
   {
     id: "95746827-83aa-42c4-af35-c75215cdb65c",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 8092,
@@ -246,7 +246,7 @@ export const fakeData = [
   },
   {
     id: "98e9917a-1993-4085-814f-21537ea5630f",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 15991,
@@ -254,7 +254,7 @@ export const fakeData = [
   },
   {
     id: "20697317-c3b8-4c4d-aec2-6e39ac8da581",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 5656,
@@ -262,7 +262,7 @@ export const fakeData = [
   },
   {
     id: "da6c46bd-768f-4ac4-97f0-f5a360ab1882",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 1498,
@@ -270,7 +270,7 @@ export const fakeData = [
   },
   {
     id: "2d6805f6-7556-47e2-81f2-8af9e0c3157f",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 7193,
@@ -278,7 +278,7 @@ export const fakeData = [
   },
   {
     id: "e7b08a97-354f-41d1-b585-f435b3ed85a9",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 1886,
@@ -286,7 +286,7 @@ export const fakeData = [
   },
   {
     id: "1231f6f3-1113-4b95-a19e-a6a41add37b6",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 3597,
@@ -294,7 +294,7 @@ export const fakeData = [
   },
   {
     id: "d99164bf-a74c-4487-8cdd-419a88d619da",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 2496,
@@ -302,7 +302,7 @@ export const fakeData = [
   },
   {
     id: "c8720e7e-de8e-49f7-80fa-0616598a7c73",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 14385,
@@ -310,7 +310,7 @@ export const fakeData = [
   },
   {
     id: "a34cd18b-6e9d-4ed4-a04d-96f6b1861611",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 2698,
@@ -318,7 +318,7 @@ export const fakeData = [
   },
   {
     id: "925df992-cbf7-47a3-97a8-22efe82542f9",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 11688,
@@ -326,7 +326,7 @@ export const fakeData = [
   },
   {
     id: "c0f1e8d5-1e02-4e5f-bc82-186948f39c1b",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 1997,
@@ -334,7 +334,7 @@ export const fakeData = [
   },
   {
     id: "58a027a2-ee84-4c65-ac89-2c54b0ae001c",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 1231,
@@ -342,7 +342,7 @@ export const fakeData = [
   },
   {
     id: "8db45ad1-b8af-4959-940f-2fe0f58f9450",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 8983,
@@ -350,7 +350,7 @@ export const fakeData = [
   },
   {
     id: "a0f0904c-3fd4-48a3-9ac9-1d7ede657c32",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 1132,
@@ -358,7 +358,7 @@ export const fakeData = [
   },
   {
     id: "4d9f4ad2-0a70-4d9f-9f34-d78d31681ede",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 15284,
@@ -366,7 +366,7 @@ export const fakeData = [
   },
   {
     id: "1303337e-8a90-430d-b187-e84b2756590c",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 4902,
@@ -374,7 +374,7 @@ export const fakeData = [
   },
   {
     id: "a1536145-bd0f-4d12-8dfc-0b8f73b12922",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 3394,
@@ -382,7 +382,7 @@ export const fakeData = [
   },
   {
     id: "6f21444f-a56f-4f09-9889-a3ee660cb61c",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 7985,
@@ -390,7 +390,7 @@ export const fakeData = [
   },
   {
     id: "d3d0257e-024c-4919-8e96-dc5496cd777d",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 1509,
@@ -398,7 +398,7 @@ export const fakeData = [
   },
   {
     id: "5d7679dc-58bc-433c-8aff-1177940d2d00",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 13531,
@@ -406,7 +406,7 @@ export const fakeData = [
   },
   {
     id: "983144c2-9db8-4cd8-af28-bc21a57621cb",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 8991,
@@ -414,7 +414,7 @@ export const fakeData = [
   },
   {
     id: "b64f8f1b-e358-41b0-88b7-35b902ca6321",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 352001,
@@ -422,7 +422,7 @@ export const fakeData = [
   },
   {
     id: "80035825-5a51-4ab1-83d1-b090fcc6d60b",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 374001,
@@ -430,7 +430,7 @@ export const fakeData = [
   },
   {
     id: "ded349c7-d6de-4e38-a9a5-6194f7c3de7c",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 20911,
@@ -438,7 +438,7 @@ export const fakeData = [
   },
   {
     id: "20301c0f-33f3-49c2-a1c1-7f35621749e1",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 22001,
@@ -446,7 +446,7 @@ export const fakeData = [
   },
   {
     id: "c7bf5b08-eb01-40f5-b331-a89a4c7316bb",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 4148,
@@ -454,7 +454,7 @@ export const fakeData = [
   },
   {
     id: "45c85a35-26c9-4720-b8f5-98b34e439ce0",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 264001,
@@ -462,7 +462,7 @@ export const fakeData = [
   },
   {
     id: "8a66b202-cb1d-4f08-b506-d5d1fa743c41",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 18451,
@@ -470,7 +470,7 @@ export const fakeData = [
   },
   {
     id: "9e21b363-0883-43a9-99a9-91c52a75a6d2",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 6787,
@@ -478,7 +478,7 @@ export const fakeData = [
   },
   {
     id: "ad803c52-d65f-4b55-9d31-dc57393a05be",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 154001,
@@ -486,7 +486,7 @@ export const fakeData = [
   },
   {
     id: "c87e0761-90ff-4d5e-a96b-e2a3c0afbed5",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 2461,
@@ -494,7 +494,7 @@ export const fakeData = [
   },
   {
     id: "40ddf8a5-aad6-43cb-acc7-ea779227bbeb",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 4525,
@@ -502,7 +502,7 @@ export const fakeData = [
   },
   {
     id: "8ef2a314-85d1-4e6c-8905-99d9be340c97",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 22141,
@@ -510,7 +510,7 @@ export const fakeData = [
   },
   {
     id: "7f1a9cd3-2969-4d22-953f-7dd6a5046753",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 755,
@@ -518,7 +518,7 @@ export const fakeData = [
   },
   {
     id: "442c7899-aefd-4943-814f-e4162e5427a3",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 3494,
@@ -526,7 +526,7 @@ export const fakeData = [
   },
   {
     id: "4a983785-8132-407f-8ad5-bbebf88f0099",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 2995,
@@ -534,7 +534,7 @@ export const fakeData = [
   },
   {
     id: "39089900-672a-4411-be45-c4751081690c",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 6033,
@@ -542,7 +542,7 @@ export const fakeData = [
   },
   {
     id: "ce789931-51d0-40e5-aca1-d9c39ae86c57",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 5279,
@@ -550,7 +550,7 @@ export const fakeData = [
   },
   {
     id: "7196b68a-3121-4e9a-b74a-a25739fac3d4",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 44001,
@@ -558,7 +558,7 @@ export const fakeData = [
   },
   {
     id: "93957994-7706-4ff1-b35d-23cefa70063e",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 23371,
@@ -566,7 +566,7 @@ export const fakeData = [
   },
   {
     id: "07042c03-25d2-424e-8d8e-140ef94c0a20",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 418001,
@@ -574,7 +574,7 @@ export const fakeData = [
   },
   {
     id: "a4476bb8-d5b2-44e2-8852-ad46666f0e5d",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 19681,
@@ -582,7 +582,7 @@ export const fakeData = [
   },
   {
     id: "2f52f500-9379-4554-b71c-2594fc395f39",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 242001,
@@ -590,7 +590,7 @@ export const fakeData = [
   },
   {
     id: "85f6cda9-f80c-4cb6-bc3d-ad59ca54ad19",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 198001,
@@ -598,7 +598,7 @@ export const fakeData = [
   },
   {
     id: "9ea8b7e1-8d97-4d0d-a624-f570d914b637",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 4991,
@@ -606,7 +606,7 @@ export const fakeData = [
   },
   {
     id: "a9bf40ef-a6f6-4dbb-a8b4-d9282574a42f",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 2640,
@@ -614,7 +614,7 @@ export const fakeData = [
   },
   {
     id: "1ab6c88a-1ecc-49a7-b805-1eb5573c6e58",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 3993,
@@ -622,7 +622,7 @@ export const fakeData = [
   },
   {
     id: "e76075cd-be49-404c-9022-44a9c742878b",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 10789,
@@ -630,7 +630,7 @@ export const fakeData = [
   },
   {
     id: "9cd369f7-4993-4198-bbd4-694c90b360ff",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 9890,
@@ -638,7 +638,7 @@ export const fakeData = [
   },
   {
     id: "4c4c9b2f-141d-4efd-8273-dec73600868e",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 1,
@@ -646,7 +646,7 @@ export const fakeData = [
   },
   {
     id: "9703e5a7-2336-4a62-a20f-593ad7b93fd0",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 1,
@@ -654,7 +654,7 @@ export const fakeData = [
   },
   {
     id: "9dbb5c66-c2eb-492f-8dac-5e888d207525",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 8484,
@@ -662,7 +662,7 @@ export const fakeData = [
   },
   {
     id: "b011b014-6102-414e-86f7-ae6bac71a755",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 6410,
@@ -670,7 +670,7 @@ export const fakeData = [
   },
   {
     id: "172e7dfd-213d-4219-ba7e-05cc28edff4a",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 8611,
@@ -678,7 +678,7 @@ export const fakeData = [
   },
   {
     id: "44a3cee6-5a6e-4b68-8781-578fd5d5cca2",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 900,
@@ -686,7 +686,7 @@ export const fakeData = [
   },
   {
     id: "6c5b24f9-bda4-410c-a781-eb10f772d9e2",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 176001,
@@ -694,7 +694,7 @@ export const fakeData = [
   },
   {
     id: "cce070fd-d040-4295-9037-e7c28e7ffd0a",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 88001,
@@ -702,7 +702,7 @@ export const fakeData = [
   },
   {
     id: "99a4ca02-6f59-41ff-9967-5209d083b6b6",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 4492,
@@ -710,7 +710,7 @@ export const fakeData = [
   },
   {
     id: "9c380d89-fc4f-422e-a492-891d62cb35f0",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 3691,
@@ -718,7 +718,7 @@ export const fakeData = [
   },
   {
     id: "4e5f4890-1a9c-4d21-a157-2c508a2073a9",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 9482,
@@ -726,7 +726,7 @@ export const fakeData = [
   },
   {
     id: "b97db9ba-e101-406d-9e02-531a67d878cc",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 6488,
@@ -734,7 +734,7 @@ export const fakeData = [
   },
   {
     id: "5a66f0cc-25ac-4741-86cc-8beb2eb3f843",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 6987,
@@ -742,7 +742,7 @@ export const fakeData = [
   },
   {
     id: "0f818e5f-b6ee-43b0-b73b-92cd97fc5090",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 1,
@@ -750,7 +750,7 @@ export const fakeData = [
   },
   {
     id: "0ef31909-52e9-4596-9d83-8be2133aa45a",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 5490,
@@ -758,7 +758,7 @@ export const fakeData = [
   },
   {
     id: "6dc0b482-f19f-44fb-9255-513474b2fa12",
-    imgUrl: "/assets/headphone.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
     details: "Jbl c150siublk headphone",
     quantity: 0,
     price: 4496,
@@ -766,7 +766,7 @@ export const fakeData = [
   },
   {
     id: "bb7a21ea-6645-43a4-84d8-fb2a4d4722db",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 17221,
@@ -774,7 +774,7 @@ export const fakeData = [
   },
   {
     id: "7d95d185-d948-4166-80ae-a88cf91de006",
-    imgUrl: "/assets/football.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
     details: "Football training kit nivia",
     quantity: 0,
     price: 500,
@@ -782,7 +782,7 @@ export const fakeData = [
   },
   {
     id: "f935771e-80ee-47e0-8e8d-23a75ed8751d",
-    imgUrl: "/assets/mouse.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
     details: "Logitech b175 wireless mouse",
     quantity: 0,
     price: 378,
@@ -790,7 +790,7 @@ export const fakeData = [
   },
   {
     id: "3586aa54-3680-44ec-a22d-1f53767d00f1",
-    imgUrl: "/assets/shoe.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
     details: "Shoe 8-ca4417-kraasa sports",
     quantity: 0,
     price: 12301,
@@ -798,7 +798,7 @@ export const fakeData = [
   },
   {
     id: "9032492b-bc3f-4a2d-8121-a6d164cb95ac",
-    imgUrl: "/assets/mobile.jpeg",
+    imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
     details: "Oppo a9-2020-cph1937 mobile",
     quantity: 0,
     price: 110001,

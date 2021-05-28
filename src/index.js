@@ -8,7 +8,7 @@ import "./index.css";
 import App from "./App";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/react-shopping-app">
     <App />
   </BrowserRouter>,
   document.getElementById("root")

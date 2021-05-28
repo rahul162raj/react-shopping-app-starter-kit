@@ -12,7 +12,7 @@ let mobile = Array(20)
   .map((value, index) => {
     let item = {
       id: uuidv4(),
-      imgUrl: "/assets/mobile.jpeg",
+      imgUrl: process.env.PUBLIC_URL + "/assets/mobile.jpeg",
       details: "Oppo a9-2020-cph1937 mobile",
       quantity: 0,
       price: 22000 * index + 1,
@@ -27,7 +27,7 @@ let sports = Array(20)
   .map((value, index) => {
     let item = {
       id: uuidv4(),
-      imgUrl: "/assets/football.jpeg",
+      imgUrl: process.env.PUBLIC_URL + "/assets/football.jpeg",
       details: "Football training kit nivia",
       quantity: 0,
       price: 499 * index + 1,
@@ -42,7 +42,7 @@ let computerGadgets = Array(20)
   .map((value, index) => {
     let item = {
       id: uuidv4(),
-      imgUrl: "/assets/mouse.jpeg",
+      imgUrl: process.env.PUBLIC_URL + "/assets/mouse.jpeg",
       details: "Logitech b175 wireless mouse",
       quantity: 0,
       price: 377 * index + 1,
@@ -57,7 +57,7 @@ let mobileGadgets = Array(20)
   .map((value, index) => {
     let item = {
       id: uuidv4(),
-      imgUrl: "/assets/headphone.jpeg",
+      imgUrl: process.env.PUBLIC_URL + "/assets/headphone.jpeg",
       details: "Jbl c150siublk headphone",
       quantity: 0,
       price: 899 * index + 1,
@@ -72,7 +72,7 @@ let fashion = Array(20)
   .map((value, index) => {
     let item = {
       id: uuidv4(),
-      imgUrl: "/assets/shoe.jpeg",
+      imgUrl: process.env.PUBLIC_URL + "/assets/shoe.jpeg",
       details: "Shoe 8-ca4417-kraasa sports",
       quantity: 0,
       price: 1230 * index + 1,
