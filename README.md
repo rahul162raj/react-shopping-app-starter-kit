@@ -27,4 +27,4 @@ npm run build
 ## Screen UI
 
 https://github.com/rahul162raj/react-shopping-app-starter-kit/tree/main/UI
-# ![ui](https://github.com/rahul162raj/react-shopping-app-starter-kit/blob/main/UI/shopDetails.JPG)
+# ![ui](https://github.com/rahul162raj/react-shopping-app-starter-kit/blob/main/UI/shopCart.JPG)
